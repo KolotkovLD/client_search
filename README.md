@@ -1,2 +1,2 @@
-# client_search
-ClientSearch FastAPI по поиску клиентов
+# ClientSearch
+FastAPI по поиску клиентов
